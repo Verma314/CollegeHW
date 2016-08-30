@@ -1,0 +1,10 @@
+E:\Aditya Verma\StudentReg\StudentReg\bin\Debug\StudentReg.exe.config
+E:\Aditya Verma\StudentReg\StudentReg\bin\Debug\StudentReg.exe
+E:\Aditya Verma\StudentReg\StudentReg\bin\Debug\StudentReg.pdb
+E:\Aditya Verma\StudentReg\StudentReg\obj\Debug\StudentReg.Form1.resources
+E:\Aditya Verma\StudentReg\StudentReg\obj\Debug\StudentReg.Properties.Resources.resources
+E:\Aditya Verma\StudentReg\StudentReg\obj\Debug\StudentReg.csproj.GenerateResource.Cache
+E:\Aditya Verma\StudentReg\StudentReg\obj\Debug\StudentReg.exe
+E:\Aditya Verma\StudentReg\StudentReg\obj\Debug\StudentReg.pdb
+E:\Aditya Verma\StudentReg\StudentReg\obj\Debug\StudentReg.Form2.resources
+E:\Aditya Verma\StudentReg\StudentReg\obj\Debug\StudentReg.csprojResolveAssemblyReference.cache
